@@ -4,7 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "commit": "git-cz",
     "prepare": "husky install"
   },
   "devDependencies": {
